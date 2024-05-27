@@ -1,0 +1,14 @@
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\bin\Debug\ndatubys.exe.config
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\bin\Debug\ndatubys.exe
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\bin\Debug\ndatubys.pdb
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.AssemblyReference.cache
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.Form1.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.Properties.Resources.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.GenerateResource.cache
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CoreCompileInputs.cache
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.exe
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.pdb
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.ogrenciekrani.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.idareci.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.ogretimeleman.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.SistemYoneticisi.resources
